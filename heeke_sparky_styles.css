@@ -109,3 +109,7 @@ footer a {
     padding: 8px 16px 8px 8px;
     font-weight: normal;
 }
+
+footer a:hover {
+    color: #ffc627;
+}
