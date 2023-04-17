@@ -65,3 +65,8 @@ nav a {
     font-weight: bold;
     font-size: 20px;
 }
+
+nav a:hover {
+    background-color: #fff;
+    color: #8c1d40;
+}
