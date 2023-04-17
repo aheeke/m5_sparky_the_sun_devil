@@ -45,3 +45,7 @@ h3 {
 nav {
     background-color: #ffc627;
 }
+
+ul {
+    padding-left: none;
+}
