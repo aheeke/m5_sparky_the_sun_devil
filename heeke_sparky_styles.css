@@ -41,3 +41,7 @@ h3 {
     display: grid;
     grid-template-columns: 1.5fr 5fr;
 }
+
+nav {
+    background-color: #ffc627;
+}
