@@ -79,3 +79,7 @@ main {
 p, q {
     color: #444;
 }
+
+q {
+    font-style: italic;
+}
