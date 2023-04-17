@@ -83,3 +83,11 @@ p, q {
 q {
     font-style: italic;
 }
+
+.year {
+    background-color: #ffc627;
+    color: #555;
+    padding: 4px;
+    font-size: 20px;
+    font-weight: bold;
+}
