@@ -17,3 +17,10 @@ header, footer, div {
     justify-content: center;
     margin: 0 auto;
 }
+
+header, footer {
+    background-color: #8c1d40;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
