@@ -76,6 +76,11 @@ main {
     padding: 24px;
 }
 
+main a {
+    color: #8c1d40;
+    font-weight: bold;
+}
+
 p, q {
     color: #444;
 }
