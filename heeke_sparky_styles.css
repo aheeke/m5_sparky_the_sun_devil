@@ -75,3 +75,7 @@ main {
     background-color: #fff;
     padding: 24px;
 }
+
+p, q {
+    color: #444;
+}
