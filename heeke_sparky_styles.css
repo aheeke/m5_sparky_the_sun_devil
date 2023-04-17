@@ -11,3 +11,9 @@ body {
     background-color: #ccc;
     color: #222;
 }
+
+header, footer, div {
+    width: 1000px;
+    justify-content: center;
+    margin: 0 auto;
+}
